@@ -1,0 +1,34 @@
+1. What are the key issues and challenges faced by our customers based on negative tweets about AirFrance's services?
+
+
+### Summary of Content
+The tweets regarding AirFrance predominantly express dissatisfaction with the airline's services, highlighting several key issues:
+
+1. **Lost Luggage**: Multiple tweets mention the frustration of lost baggage and the lack of communication from customer service regarding updates.
+2. **Poor Customer Service**: Many customers report rude and unhelpful interactions with staff, both in-person and through social media. There are complaints about sarcastic responses and a general lack of empathy.
+3. **Delays and Cancellations**: Tweets indicate significant delays and cancellations, often leading to missed connections and a lack of information provided to passengers during these situations.
+4. **Communication Issues**: Customers express frustration over the difficulty in reaching customer service, with some mentioning that phone lines do not work and social media responses are inadequate.
+5. **Overall Experience**: The sentiment across the tweets is overwhelmingly negative, with many users labeling AirFrance as one of the worst airlines due to their experiences.
+
+### Actionable Insights
+Based on the summary, AirFrance can focus on the following areas for improvement:
+
+1. **Enhance Baggage Handling Procedures**: Implement better tracking systems for luggage and improve communication protocols to keep customers informed about their baggage status.
+   - **Suggestion**: Introduce a real-time baggage tracking feature in the mobile app.
+
+2. **Improve Customer Service Training**: Provide comprehensive training for customer service representatives to ensure they handle inquiries with empathy and professionalism.
+   - **Suggestion**: Regular workshops and role-playing scenarios to improve staff interactions with customers.
+
+3. **Streamline Communication Channels**: Ensure that customers can easily reach support through multiple channels, including social media, phone, and email, and that responses are timely and informative.
+   - **Suggestion**: Increase staffing during peak times and enhance the social media response team to address customer concerns more effectively.
+
+4. **Address Delays and Cancellations Proactively**: Develop a system to keep passengers informed about delays and cancellations, including alternative arrangements and compensation options.
+   - **Suggestion**: Implement a notification system that alerts passengers via SMS or app notifications about changes to their flight status.
+
+5. **Gather Customer Feedback**: Actively seek feedback from customers after their travel experience to identify areas for improvement and address specific complaints.
+   - **Suggestion**: Send follow-up surveys post-flight to gather insights on customer experiences.
+
+### Tweet Examples
+1. "ah @airfrance why do you loose people's luggage and not respond to messages and calls to update customers #disappointed @afnewsroom"
+2. "absolutely horrific experience with @airfrance / @delta at cdg. system failures and catastrophic failure of customer service."
+3. "@airfrance your service level on tonight's af019 from jfk is disgraceful. what an unpleasant experience so far."

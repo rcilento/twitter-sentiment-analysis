@@ -1,0 +1,3 @@
+1. What are the key issues and challenges faced by our customers based on negative tweets about AirFrance's services?
+
+2. What are the main aspects of our service, flight experience, and customer interactions that are positively received according to the positive tweets? Use tweets with positive and neutral sentiments to identify areas where AirFrance excels and suggest ways to further strengthen these positive aspects and strategies to leverage this positive feedback.

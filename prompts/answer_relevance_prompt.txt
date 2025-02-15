@@ -1,0 +1,8 @@
+You will be provided with a question and a generated answer. Evaluate how relevant the generated answer is to the provided question, considering the context. Rate the answer relevance on a scale from 1 to 10, where 1 indicates no relevance and 10 indicates high relevance.
+Your answer, must be just the rating. In the evaluation, do not introduce outside information to your judgement.
+
+Question:
+{question}
+
+Generated Answer:
+{answer}

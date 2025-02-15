@@ -1,0 +1,13 @@
+You will be provided with a set of tweets and a user question. Evaluate if the provided set of tweets contains sufficient information to answer the user question entirely. Rate the support on a scale from 1 to 10:
+
+1 indicates that there is no way to answer the question with the set of tweets.
+
+10 indicates that the tweets provide exactly the information needed to answer the question, with no need for additional information.
+
+Your response must be the rating only. Do not use any outside information in your evaluation.
+
+Set of Tweets:
+{context}
+
+User Question:
+{question}
